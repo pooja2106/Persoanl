@@ -1,0 +1,125 @@
+{ "livemint_technology":{
+    "rss": "https://www.livemint.com/rss/technology",
+    "link": "https://www.livemint.com/technology"
+  },
+  "livemint_companies":{
+    "rss": "https://www.livemint.com/rss/companies",
+    "link": "https://www.livemint.com/companies"
+  },
+  "timesofindia_education":{
+    "rss": "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
+    "link": "https://timesofindia.indiatimes.com/education"
+  },
+   "timesofindia_entertainment": {
+    "rss": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+    "link": "https://timesofindia.indiatimes.com/entertainment"
+ },
+  "timesofindia_lifestyle": {
+    "rss": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+    "link": "https://timesofindia.indiatimes.com/life-style
+  },
+  "zee_world": {
+    "rss": "https://zeenews.india.com/rss/world-news.xml",
+    "link": "https://zeenews.india.com/world"
+  },
+  "zee_sports": {
+    "rss": "https://zeenews.india.com/rss/sports-news.xml",
+    "link": "https://zeenews.india.com/sports/"
+ },
+  "zee_entertainment":{
+    "rss": "https://zeenews.india.com/rss/entertainment-news.xml",
+    "link": "https://zeenews.india.com/entertainment"
+},
+  "ndtv_tech": {
+    "rss": "https://feeds.feedburner.com/gadgets360-latest",
+    "link": "https://gadgets.ndtv.com/?pfrom=home-tech"
+ },
+  "ndtv_movies": {
+    "rss": "https://feeds.feedburner.com/ndtvmovies-latest",
+    "link": "https://movies.ndtv.com/"
+ },
+  "abp_business": {
+    "rss": "https://news.abplive.com/business/feed",
+    "link": "https://news.abplive.com/business"
+ },
+  "abp_television": {
+    "rss": "https://news.abplive.com/entertainment/television/feed",
+    "link": "https://news.abplive.com/entertainment/television"
+ },
+  "abp_sports": {
+    "rss": "https://news.abplive.com/sports/feed",
+    "link": "https://news.abplive.com/sports"
+ },
+ "abp_covid19": {
+    "rss": "https://news.abplive.com/latest-news/covid-19/feed",
+    "link": "https://news.abplive.com/coronavirus-covid-19"
+ },
+ "abp_gagdets":{
+    "rss": "https://news.abplive.com/technology/gadgets/feed",
+    "link": "https://news.abplive.com/news/gadgets"
+ },
+ "abp_india":{
+    "rss": "https://news.abplive.com/news/india/feed",
+    "link": "https://news.abplive.com/news/india"
+ },
+ "hindu_business": {
+    "rss": "https://www.thehindu.com/business/feeder/default.rss",
+    "link": "https://www.thehindu.com/business/"
+ },
+ "hindu_corona": {
+    "rss": "https://www.thehindu.com/coronavirus/feeder/default.rss",
+    "link": "https://www.thehindu.com/coronavirus/"
+ },
+ "hindu_economy":{
+     "rss": "https://www.thehindu.com/business/Economy/feeder/default.rss",
+     "link": "https://www.thehindu.com/business/Economy/"
+ },
+ "indianexpress_entertainment":{
+     "rss": "https://indianexpress.com/section/entertainment/feed/",
+     "link": "https://indianexpress.com/section/entertainment/"
+ },
+ "indianexpress_lifestyle":{
+    "rss": "https://indianexpress.com/section/lifestyle/life-style/feed/",
+    "link": "https://indianexpress.com/section/lifestyle/"
+ },
+  "indianexpress_education": {
+    "rss": "https://indianexpress.com/section/india/education/feed/",
+    "link": "https://indianexpress.com/section/education/"
+  },
+  "hindustantimes_education": {
+    "rss": "https://www.hindustantimes.com/rss/education/rssfeed.xml",
+    "link": "https://www.hindustantimes.com/education/"
+  },
+  "hindustantimes_entertainment":{
+    "rss": "https://www.hindustantimes.com/rss/entertainment/rssfeed.xml",
+    "link": "https://www.hindustantimes.com/entertainment/"
+  },
+  "hindustantimes_world":{
+    "rss": "https://www.hindustantimes.com/rss/world/rssfeed.xml",
+    "link": "https://www.hindustantimes.com/world-news/"
+  },
+  "hindustantimes_tech":{
+      "rss": "https://www.hindustantimes.com/rss/tech/rssfeed.xml",
+      "link": "https://tech.hindustantimes.com/"
+  },
+  "indiatoday_sports": {
+    "rss": "https://www.indiatoday.in/rss/1206550",
+    "link": "https://www.indiatoday.in/sports"
+  },
+  "indiatoday_world": {
+    "rss": "https://www.indiatoday.in/rss/1206577",
+    "link": "https://www.indiatoday.in/world"
+  },
+  "news18_tech": {
+    "rss": "https://www.news18.com/rss/tech.xml",
+    "link": "https://www.news18.com/tech/"
+  },
+  "news18_movies": {
+    "rss": "https://www.news18.com/rss/movies.xml",
+    "link": "https://www.news18.com/movies/"
+  },
+  "news18_india": {
+    "rss": "https://www.news18.com/rss/india.xml",
+    "link": "https://www.news18.com/india/"
+  }
+}
